@@ -1,0 +1,38 @@
+html{
+	background:;
+	font-size: 20px;
+}
+h1{
+	text-align: center;
+	font-size: 55px;
+}
+body{
+	width: 85%;
+	margin: 4%;
+	background: #CFCACA;	
+}	
+img{
+	height: 80px;
+	margin: 10px;
+	margin-left:115px;
+}
+p{
+	margin-left: 10px;
+	
+}
+h2{
+	margin-left: 10px;
+	font-size: 30px;
+	background: #827D7D;
+	color: width;
+	margin-top: 0;
+}
+h3{
+	margin-left: 10px;
+	font-size: 30px;
+	background: #827D7D;
+	margin-top: 0;
+}
+strong{
+	color: red;
+}
